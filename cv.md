@@ -1,15 +1,29 @@
-#Oksana Fedorenko
+ # Oksana Fedorenko
 
 
-##Contacts
+## Contacts
+
+
 **E-mail**: redjinaphalange@gmail.com
 
-##Goal
+[GitHub](https://github.com/RedjinaPhalange)
+
+
+## Goal
+
+
 To become a front-end developer
 
-##Skills
+
+## Skills
+
+
 * Html
 * Css
 * Basic JS
-##English
+
+
+## English
+
+
 Pre-intermediate(A2)
