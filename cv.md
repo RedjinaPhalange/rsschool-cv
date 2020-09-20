@@ -1,9 +1,8 @@
-#fedorenko Oksana
 #Oksana Fedorenko
 
 
 ##Contacts
-E-mail: redjinaphalange@gmail.com
+**E-mail**: redjinaphalange@gmail.com
 
 ##Goal
 To become a front-end developer
@@ -12,6 +11,5 @@ To become a front-end developer
 * Html
 * Css
 * Basic JS
-
 ##English
 Pre-intermediate(A2)
