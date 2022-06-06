@@ -21,3 +21,8 @@ To become a front-end developer
 * Css
 * Basic JS
 
+
+## English
+
+
+Intermediate(B1)
