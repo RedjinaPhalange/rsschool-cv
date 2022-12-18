@@ -68,13 +68,13 @@ footer {
        display: flex;
        align-items: center;
        justify-content: space-between;
+       transition: transform 0.25s;
        background-color: #F0F0F0;
 
    }
 
 .link-logo:hover {
-  transform: scale(1.1);
-  transition-duration: 0.3s;
+    transform: scale(1.1);
     color: purple;
    }
 
